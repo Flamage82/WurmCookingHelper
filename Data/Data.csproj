@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <AssemblyName>WurmCookingHelper.Data</AssemblyName>
+        <RootNamespace>WurmCookingHelper.Data</RootNamespace>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="System.Text.Json" Version="5.0.0-rc.2.20475.5" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Update="Affinities.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+</Project>

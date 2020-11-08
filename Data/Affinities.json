@@ -1,0 +1,554 @@
+[
+    {
+        "Id": 0,
+        "Name": "Mind"
+    },
+    {
+        "Id": 1,
+        "Name": "Body"
+    },
+    {
+        "Id": 2,
+        "Name": "Soul"
+    },
+    {
+        "Id": 3,
+        "Name": "Body control"
+    },
+    {
+        "Id": 4,
+        "Name": "Body stamina"
+    },
+    {
+        "Id": 5,
+        "Name": "Body strength"
+    },
+    {
+        "Id": 6,
+        "Name": "Mind logic"
+    },
+    {
+        "Id": 7,
+        "Name": "Mind speed"
+    },
+    {
+        "Id": 8,
+        "Name": "Soul depth"
+    },
+    {
+        "Id": 9,
+        "Name": "Soul strength"
+    },
+    {
+        "Id": 10,
+        "Name": "Swords"
+    },
+    {
+        "Id": 11,
+        "Name": "Axes"
+    },
+    {
+        "Id": 12,
+        "Name": "Knives"
+    },
+    {
+        "Id": 13,
+        "Name": "Mauls"
+    },
+    {
+        "Id": 14,
+        "Name": "Clubs"
+    },
+    {
+        "Id": 15,
+        "Name": "Hammers"
+    },
+    {
+        "Id": 16,
+        "Name": "Archery"
+    },
+    {
+        "Id": 17,
+        "Name": "Polearms"
+    },
+    {
+        "Id": 18,
+        "Name": "Tailoring"
+    },
+    {
+        "Id": 19,
+        "Name": "Cooking"
+    },
+    {
+        "Id": 20,
+        "Name": "Smithing"
+    },
+    {
+        "Id": 21,
+        "Name": "Weaponsmithing"
+    },
+    {
+        "Id": 22,
+        "Name": "Armour smithing"
+    },
+    {
+        "Id": 23,
+        "Name": "Misc items"
+    },
+    {
+        "Id": 24,
+        "Name": "Shields"
+    },
+    {
+        "Id": 25,
+        "Name": "Alchemy"
+    },
+    {
+        "Id": 26,
+        "Name": "Nature"
+    },
+    {
+        "Id": 27,
+        "Name": "Toys"
+    },
+    {
+        "Id": 28,
+        "Name": "Fighting"
+    },
+    {
+        "Id": 29,
+        "Name": "Healing"
+    },
+    {
+        "Id": 30,
+        "Name": "Religion"
+    },
+    {
+        "Id": 31,
+        "Name": "Thievery"
+    },
+    {
+        "Id": 32,
+        "Name": "War Machines"
+    },
+    {
+        "Id": 33,
+        "Name": "Farming"
+    },
+    {
+        "Id": 34,
+        "Name": "Papyrusmaking"
+    },
+    {
+        "Id": 35,
+        "Name": "Thatching"
+    },
+    {
+        "Id": 36,
+        "Name": "Gardening"
+    },
+    {
+        "Id": 37,
+        "Name": "Meditating"
+    },
+    {
+        "Id": 38,
+        "Name": "Forestry"
+    },
+    {
+        "Id": 39,
+        "Name": "Rake"
+    },
+    {
+        "Id": 40,
+        "Name": "Scythe"
+    },
+    {
+        "Id": 41,
+        "Name": "Sickle"
+    },
+    {
+        "Id": 42,
+        "Name": "Small axe"
+    },
+    {
+        "Id": 43,
+        "Name": "Mining"
+    },
+    {
+        "Id": 44,
+        "Name": "Digging"
+    },
+    {
+        "Id": 45,
+        "Name": "Pickaxe"
+    },
+    {
+        "Id": 46,
+        "Name": "Shovel"
+    },
+    {
+        "Id": 47,
+        "Name": "Pottery"
+    },
+    {
+        "Id": 48,
+        "Name": "Ropemaking"
+    },
+    {
+        "Id": 49,
+        "Name": "Woodcutting"
+    },
+    {
+        "Id": 50,
+        "Name": "Hatchet"
+    },
+    {
+        "Id": 51,
+        "Name": "Leatherworking"
+    },
+    {
+        "Id": 52,
+        "Name": "Cloth tailoring"
+    },
+    {
+        "Id": 53,
+        "Name": "Masonry"
+    },
+    {
+        "Id": 54,
+        "Name": "Blades smithing"
+    },
+    {
+        "Id": 55,
+        "Name": "Weapon heads smithing"
+    },
+    {
+        "Id": 56,
+        "Name": "Chain armour smithing"
+    },
+    {
+        "Id": 57,
+        "Name": "Plate armour smithing"
+    },
+    {
+        "Id": 58,
+        "Name": "Shield smithing"
+    },
+    {
+        "Id": 59,
+        "Name": "Blacksmithing"
+    },
+    {
+        "Id": 60,
+        "Name": "Dairy food making"
+    },
+    {
+        "Id": 61,
+        "Name": "Hot food cooking"
+    },
+    {
+        "Id": 62,
+        "Name": "Baking"
+    },
+    {
+        "Id": 63,
+        "Name": "Beverages"
+    },
+    {
+        "Id": 64,
+        "Name": "Longsword"
+    },
+    {
+        "Id": 65,
+        "Name": "Large maul"
+    },
+    {
+        "Id": 66,
+        "Name": "Medium maul"
+    },
+    {
+        "Id": 67,
+        "Name": "Small maul"
+    },
+    {
+        "Id": 68,
+        "Name": "Warhammer"
+    },
+    {
+        "Id": 69,
+        "Name": "Long spear"
+    },
+    {
+        "Id": 70,
+        "Name": "Halberd"
+    },
+    {
+        "Id": 71,
+        "Name": "Staff"
+    },
+    {
+        "Id": 72,
+        "Name": "Carving knife"
+    },
+    {
+        "Id": 73,
+        "Name": "Butchering knife"
+    },
+    {
+        "Id": 74,
+        "Name": "Stone chisel"
+    },
+    {
+        "Id": 75,
+        "Name": "Huge club"
+    },
+    {
+        "Id": 76,
+        "Name": "Saw"
+    },
+    {
+        "Id": 77,
+        "Name": "Butchering"
+    },
+    {
+        "Id": 78,
+        "Name": "Carpentry"
+    },
+    {
+        "Id": 79,
+        "Name": "Firemaking"
+    },
+    {
+        "Id": 80,
+        "Name": "Tracking"
+    },
+    {
+        "Id": 81,
+        "Name": "Small wooden shield"
+    },
+    {
+        "Id": 82,
+        "Name": "Medium wooden shield"
+    },
+    {
+        "Id": 83,
+        "Name": "Large wooden shield"
+    },
+    {
+        "Id": 84,
+        "Name": "Small metal shield"
+    },
+    {
+        "Id": 85,
+        "Name": "Large metal shield"
+    },
+    {
+        "Id": 86,
+        "Name": "Medium metal shield"
+    },
+    {
+        "Id": 87,
+        "Name": "Large axe"
+    },
+    {
+        "Id": 88,
+        "Name": "Huge axe"
+    },
+    {
+        "Id": 89,
+        "Name": "Shortsword"
+    },
+    {
+        "Id": 90,
+        "Name": "Two Handed Sword"
+    },
+    {
+        "Id": 91,
+        "Name": "Hammer"
+    },
+    {
+        "Id": 92,
+        "Name": "Paving"
+    },
+    {
+        "Id": 93,
+        "Name": "Prospecting"
+    },
+    {
+        "Id": 94,
+        "Name": "Fishing"
+    },
+    {
+        "Id": 95,
+        "Name": "Locksmithing"
+    },
+    {
+        "Id": 96,
+        "Name": "Repairing"
+    },
+    {
+        "Id": 97,
+        "Name": "Coal-Making"
+    },
+    {
+        "Id": 98,
+        "Name": "Milling"
+    },
+    {
+        "Id": 99,
+        "Name": "Metallurgy"
+    },
+    {
+        "Id": 100,
+        "Name": "Natural Substances"
+    },
+    {
+        "Id": 101,
+        "Name": "Jewelry Smithing"
+    },
+    {
+        "Id": 102,
+        "Name": "Fine Carpentry"
+    },
+    {
+        "Id": 103,
+        "Name": "Bowyery"
+    },
+    {
+        "Id": 104,
+        "Name": "Fletching"
+    },
+    {
+        "Id": 105,
+        "Name": "Yoyo"
+    },
+    {
+        "Id": 106,
+        "Name": "Puppeteering"
+    },
+    {
+        "Id": 107,
+        "Name": "Toymaking"
+    },
+    {
+        "Id": 108,
+        "Name": "Weaponless fighting"
+    },
+    {
+        "Id": 109,
+        "Name": "Aggressive fighting"
+    },
+    {
+        "Id": 110,
+        "Name": "Defensive fighting"
+    },
+    {
+        "Id": 111,
+        "Name": "Normal fighting"
+    },
+    {
+        "Id": 112,
+        "Name": "First aid"
+    },
+    {
+        "Id": 113,
+        "Name": "Taunting"
+    },
+    {
+        "Id": 114,
+        "Name": "Shield bashing"
+    },
+    {
+        "Id": 115,
+        "Name": "Milking"
+    },
+    {
+        "Id": 116,
+        "Name": "Preaching"
+    },
+    {
+        "Id": 117,
+        "Name": "Prayer"
+    },
+    {
+        "Id": 118,
+        "Name": "Channeling"
+    },
+    {
+        "Id": 119,
+        "Name": "Exorcism"
+    },
+    {
+        "Id": 120,
+        "Name": "Artifacts"
+    },
+    {
+        "Id": 121,
+        "Name": "Foraging"
+    },
+    {
+        "Id": 122,
+        "Name": "Botanizing"
+    },
+    {
+        "Id": 123,
+        "Name": "Climbing"
+    },
+    {
+        "Id": 124,
+        "Name": "Stone cutting"
+    },
+    {
+        "Id": 125,
+        "Name": "Lock picking"
+    },
+    {
+        "Id": 126,
+        "Name": "Stealing"
+    },
+    {
+        "Id": 127,
+        "Name": "Traps"
+    },
+    {
+        "Id": 128,
+        "Name": "Catapults"
+    },
+    {
+        "Id": 129,
+        "Name": "Animal taming"
+    },
+    {
+        "Id": 130,
+        "Name": "Animal husbandry"
+    },
+    {
+        "Id": 131,
+        "Name": "Short bow"
+    },
+    {
+        "Id": 132,
+        "Name": "Long bow"
+    },
+    {
+        "Id": 133,
+        "Name": "Medium bow"
+    },
+    {
+        "Id": 134,
+        "Name": "Ship building"
+    },
+    {
+        "Id": 135,
+        "Name": "Ballistae"
+    },
+    {
+        "Id": 136,
+        "Name": "Trebuchets"
+    },
+    {
+        "Id": 137,
+        "Name": "Turrets"
+    }
+]
